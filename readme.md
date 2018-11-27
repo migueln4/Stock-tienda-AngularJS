@@ -18,4 +18,4 @@
     <span class="label label-warning">nº unidades para menos de 15 unidades</span>
     <span class="label label-danger">Sin stock</span> OK
 7. Implementa la directiva ng-repeat de modo que podamos mostrar más de un solo producto. 
-8. Añade los campos descuento y precio final a los artículos. Este último se debe calcular en función del precio inicial y del descuento.
+8. Añade los campos descuento y precio final a los artículos. Este último se debe calcular en función del precio inicial y del descuento. OK
